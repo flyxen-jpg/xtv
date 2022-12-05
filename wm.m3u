@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0, Magenta WM 1 HD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:D9:AE:92&stream=1059575&extension=ts&play_token=WpCrShDHsO
+#EXTINF:0, Magenta WM 1 FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:D9:AE:92&stream=1059577&extension=ts&play_token=dz1m73M1DP
+#EXTINF:0, Magenta WM 2 HD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:D9:AE:92&stream=1059576&extension=ts&play_token=ZrmJKrT5nl
+#EXTINF:0, Magenta WM 2 FHD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:D9:AE:92&stream=1059578&extension=ts&play_token=FaTwfkqXsJ
+============
+#EXTINF:0, Magenta WM 1 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:16:02:25&stream=1059575&extension=ts&play_token=DknwgnRjMI
+#EXTINF:0, Magenta WM 1 FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:16:02:25&stream=1059577&extension=ts&play_token=MjouCvfqMI
+#EXTINF:0, Magenta WM 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:16:02:25&stream=1059576&extension=ts&play_token=amBUTFsY4x
+#EXTINF:0, Magenta WM 2 FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:16:02:25&stream=1059578&extension=ts&play_token=zjh9FvXelH
+============
+#EXTINF:0, Magenta WM 1 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:03:31&stream=1059575&extension=ts&play_token=2irzsMwwSh
+#EXTINF:0, Magenta WM 1 FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:03:31&stream=1059577&extension=ts&play_token=7nJlL5S6ng
+#EXTINF:0, Magenta WM 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:03:31&stream=1059576&extension=ts&play_token=W1atSBgTdG
+#EXTINF:0, Magenta WM 2 FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:17:03:31&stream=1059578&extension=ts&play_token=bwN1OtHh8J
